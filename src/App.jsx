@@ -3,7 +3,7 @@ function ImageUploading(){
                 return(
                     <>
                     {/* <div className="firstHalf"> */}
-                    <h1 className="text big ms-5 mt-5 text-danger" id="web">
+                    <h1 className="text big ms-5 mt-5 text-success" id="web">
                       Image Upload Sample
                     </h1>
                    <MultiFileUpload/> 
