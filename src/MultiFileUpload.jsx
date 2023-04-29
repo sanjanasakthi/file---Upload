@@ -43,7 +43,7 @@ export default class MultiFileUpload extends Component{
                                 <input type="file" className="form-control w-25 mt-5 ms-5" 
                                 onChange={this.uploadMultipleFiles} multiple/>
 
-                                <button type="button" className="btn btn-warning mt-5 ms-5" 
+                                <button type="button" className="btn btn-success mt-5 ms-5" 
                                 onClick={this.uploadFiles}>Upload</button>
                           </div>
                     </form>
